@@ -6,7 +6,7 @@
 
 ## 下载
 
-到 [Releases](https://github.com/lavenderhugo/zhicheng-releases/releases/latest) 下载最新版 `Zhicheng-<版本>.zip`。
+到 [Releases](https://github.com/lavenderhugo/zhicheng-releases/releases) 下载最新版 `Zhicheng-<版本>.zip`。
 
 系统要求：macOS 14 及以上（Apple 芯片与 Intel 均可）。
 
